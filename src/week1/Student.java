@@ -7,7 +7,7 @@ package week1;
 
 /**
  *
- * @author priyanka
+ * @author priyanka lakhera, May 28 
  */
 public class Student {
     private String name;
